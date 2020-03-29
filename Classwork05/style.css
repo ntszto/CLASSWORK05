@@ -1,0 +1,47 @@
+*{
+
+    margin: 0 auto;
+
+}
+
+
+header{
+
+    background-color: red;
+    width: 1000px;
+    text-align: center;
+
+}
+
+
+.heroimage{
+
+    position: relative;
+    width: 1000px;
+}
+
+
+.welcome{
+
+    position: absolute;
+    background-color: #ff0000 ;
+    width: 450px;
+    padding: 20px;
+    top: 200px;
+
+}
+
+span{
+
+color: #feb614;;
+font-size: 30px;
+
+}
+
+h2{
+
+
+color: #ffffff;
+font-size: 45px;
+
+}
